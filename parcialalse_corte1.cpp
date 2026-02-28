@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 double calcularPromedio(double valores[], int n) {
     double suma = 0.0;
     for (int i = 0; i < n; i++) {
