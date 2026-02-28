@@ -1,4 +1,5 @@
 # parcialalse_corte1
+
 Funcionamiento general
 Solicita al usuario la cantidad de valores (n) que desea promediar
 Valida que n sea mayor que cero
